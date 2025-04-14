@@ -32,4 +32,8 @@
 
 
 
- 
+day=input("give me today's day")
+if day is not Saturday:
+ print("It's not the weekend yet!")
+else:
+   print("It's the weekend!")
