@@ -25,11 +25,11 @@
 #  print("you may proceed to ride.")
 #  else print("you will need someone who is at least 18 to accompany you for the ride.")
  
-
-# colour=input("give me a colour: ")
+our=input("give me a colour: ")
 # # colour=int("colour")
 # if colour.lower() is not "green":
 #     print("try again")
+# col
 
 
  
