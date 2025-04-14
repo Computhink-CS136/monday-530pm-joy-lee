@@ -17,11 +17,12 @@
 
 
 
-age=input("give me your age.")
-age=int(age)
-rider1=19
-rider2=7
-if rider1 >= 18 or rider2 >= 18
- print("you may proceed to ride.")
- else print("you will need someone who is at least 18 to accompany you for the ride.")
+# age=input("give me your age.")
+# age=int(age)
+# rider1=19
+# rider2=7
+# if rider1 >= 18 or rider2 >= 18
+#  print("you may proceed to ride.")
+#  else print("you will need someone who is at least 18 to accompany you for the ride.")
  
+
