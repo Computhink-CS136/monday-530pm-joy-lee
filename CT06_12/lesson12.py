@@ -9,6 +9,6 @@ for letter in word:
     elif letter == "o":
          contains_o = True
 if not contains_e and not contains_o:
-     print
+     print("invalid ")
 
            
