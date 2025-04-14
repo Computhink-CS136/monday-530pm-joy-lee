@@ -13,5 +13,5 @@ print("Hello from lesson 12")
 # if not (contains_e and not contains_o):
 #      print("invalid word")
 # else:
-#      print("good word:" + word)
+#      print("good word:" + word")
 
