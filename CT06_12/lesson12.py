@@ -1,3 +1,5 @@
 print("Hello from lesson 12")
 
-word+something
+word="something"
+for letter in word:
+    
