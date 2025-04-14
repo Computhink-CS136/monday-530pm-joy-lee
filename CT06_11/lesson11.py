@@ -27,3 +27,4 @@
  
 
 colour=input("give me a colour")
+colour=int
