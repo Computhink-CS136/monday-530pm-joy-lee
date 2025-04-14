@@ -1,3 +1,4 @@
 print("Hello from lesson 12")
 
-word=inout("give me a word with at least ")
+word=input("give me a 5 letter word")
+           
