@@ -28,7 +28,7 @@
 
 colour=input("give me a colour: ")
 # colour=int("colour")
-if colour is not "green":
+if colour.lower() is not "green":
     print("try again")
 
 
