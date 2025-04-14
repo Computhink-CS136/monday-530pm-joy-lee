@@ -15,4 +15,4 @@ print("Hello from lesson 12")
 # else:
 #      print("good word:" + word")
 
-visitor
+visitor= 0
