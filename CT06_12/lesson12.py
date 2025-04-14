@@ -8,6 +8,7 @@ for letter in word:
          contains_e = True
     elif letter == "o":
          contains_o = True
+         
 if not contains_e and not contains_o:
      print("invalid word")
 else:
