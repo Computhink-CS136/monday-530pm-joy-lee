@@ -1,3 +1,3 @@
 print("Hello from lesson 12")
 
-word=inout("")
+word=inout("give me a word with ")
