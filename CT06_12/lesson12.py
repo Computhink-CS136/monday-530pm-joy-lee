@@ -10,7 +10,7 @@ for letter in word:
     if letter == "o":
          contains_o = True
 
-if not contains_e and not contains_o:
+if not (contains_e and not contains_o):
      print("invalid word")
 else:
      print("good word:" + word)
