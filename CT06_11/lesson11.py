@@ -26,7 +26,7 @@
 #  else print("you will need someone who is at least 18 to accompany you for the ride.")
  
 
-colour=input("give me a colour")
+colour=input("give me a colour: ")
 # colour=int("colour")
 if colour is not "Green":
     print("try again")
