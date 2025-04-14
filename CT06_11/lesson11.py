@@ -29,7 +29,7 @@ our=input("give me a colour: ")
 # # colour=int("colour")
 # if colour.lower() is not "green":
 #     print("try again")
-# col
+
 
 
  
