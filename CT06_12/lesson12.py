@@ -7,6 +7,6 @@ for letter in word:
     if letter == "e":
          contains_e = True
     elif letter == "o":
-         co
+         contains_o = 
 
            
