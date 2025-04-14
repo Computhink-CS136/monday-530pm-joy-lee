@@ -16,3 +16,4 @@ print("Hello from lesson 12")
 #      print("good word:" + word")
 
 visitor= 0
+while counter < 5:
