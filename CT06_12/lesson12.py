@@ -7,7 +7,7 @@ for letter in word:
     print(letter)
     if letter == "e":
          contains_e = True
-    elif letter == "o":
+    if letter == "o":
          contains_o = True
 
 if not contains_e and not contains_o:
