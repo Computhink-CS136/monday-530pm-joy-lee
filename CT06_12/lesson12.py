@@ -18,3 +18,4 @@ print("Hello from lesson 12")
 visitor= 0
 while counter < 5:
     print(counter)
+    counter += 1
