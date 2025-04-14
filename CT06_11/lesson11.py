@@ -32,8 +32,8 @@
 
 
 
-day=input("give me today's day:  ")
-if not day == "Saturday":
- print("It's not the weekend yet!")
-else:
-   print("It's the weekend!")
+# day=input("give me today's day:  ")
+# if not day == "Saturday":
+#  print("It's not the weekend yet!")
+# else:
+#    print("It's the weekend!")
