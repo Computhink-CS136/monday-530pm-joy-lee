@@ -1,2 +1,4 @@
 order = ""
-answer = input("what i")
+answer = input("what is your order?")
+while not answer == "end":
+    order 
