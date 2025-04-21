@@ -7,3 +7,4 @@ while True:
     print("2. Deposit cash")
     print("3. Show balance")
     print("4. Exit")
+    reply = input
