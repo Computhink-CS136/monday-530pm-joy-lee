@@ -10,4 +10,5 @@ while True:
     reply = input("")
     reply = int(reply)
     if reply == 4:
-        print("Thank you for ")
+        print("Thank you for using my bank")
+        break
