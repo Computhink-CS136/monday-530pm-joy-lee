@@ -29,4 +29,5 @@
 
 
 import random
+number1 = 0
 
