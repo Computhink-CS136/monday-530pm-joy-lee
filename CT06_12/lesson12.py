@@ -30,4 +30,4 @@
 
 import random
 number1 = 0
-
+w
