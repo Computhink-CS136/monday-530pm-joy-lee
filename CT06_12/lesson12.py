@@ -5,5 +5,5 @@ while not answer == "end":
     order = order + answer + ", "
     answer = input("what is your order?")
 #outside the loop
-print("you have ordered these items. do enjoy your meal!")
-print(order)
+# print("you have ordered these items. do enjoy your meal!")
+# print(order)
