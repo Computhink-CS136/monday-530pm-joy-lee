@@ -5,5 +5,5 @@ while True:
     print("choose the following:")
     print("1. Withdraw cash")
     print("2. Deposit cash")
-    print("Show balance")
-    print("4. ")
+    print("3. Show balance")
+    print("4. Exit")
