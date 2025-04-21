@@ -9,7 +9,8 @@
 
 
 import random
-number1 = random.randint(1, 10)
+for count in range(10):
+    number1 = random.randint(1, 10)
 number2 = random.randint(1, 10)
 #what is 3 + 5?
 question = "what is" + str(number1) + " + " + str(number2) +"?"
@@ -21,3 +22,4 @@ while not answer == hidden_answer:
     answer = int(answer) #convert to a number
 else:
     print("you are correct!")
+
