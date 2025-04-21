@@ -32,7 +32,7 @@ import random
 num = 0
 while  not num == 4:
     print(num)
-    num = random.randint 
+    num = random.randint(1, 6)
     if num == 4:
         break
 else:
