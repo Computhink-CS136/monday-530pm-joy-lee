@@ -6,3 +6,4 @@ while True:
     print("1. Withdraw cash")
     print
     print
+    print
