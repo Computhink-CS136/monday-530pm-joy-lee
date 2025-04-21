@@ -4,6 +4,6 @@ while True:
     print("Welcome to my bank")
     print("choose the following:")
     print("1. Withdraw cash")
-    print
-    print
+    print("")
+    print("")
     print
