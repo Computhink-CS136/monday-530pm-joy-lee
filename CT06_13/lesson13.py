@@ -8,4 +8,6 @@ while True:
     print("3. Show balance")
     print("4. Exit")
     reply = input("")
-    reply = int()
+    reply = int(reply)
+    if reply == 4:
+        
