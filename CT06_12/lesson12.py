@@ -9,4 +9,4 @@
 
 
 import random
-number1 = 
+number1 = random.ran
