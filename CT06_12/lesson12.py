@@ -15,5 +15,5 @@ number2 = random.randint(1, 10)
 #what is 3 + 5?
 question = "what is" + str(number1) + " + " + str(number2) +"?"
 hidden_answer = number1 + number2
-while not answer == hidden_answer:
+while not hidden_answer == hidden_answer:
     print("wrong! try again!")
