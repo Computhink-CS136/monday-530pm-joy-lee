@@ -1,2 +1,2 @@
 order = ""
-answer = im
+answer = input("what i")
