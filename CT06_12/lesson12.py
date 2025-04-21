@@ -32,6 +32,7 @@ import random
 num = 0
 while  not num == 4:
     print(num)
+    num =
     if num == 4:
         break
 else:
