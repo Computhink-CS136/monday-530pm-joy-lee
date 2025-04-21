@@ -30,6 +30,10 @@
 
 import random
 num = 0
-while num is not 4:
-    print9num
+while  not num == 4:
+    print(num)
+    if num == 4:
+        break
+else:
+    print("end of loop")
 
