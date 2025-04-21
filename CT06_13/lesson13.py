@@ -12,5 +12,4 @@ while True:
     if reply == 4:
         print("Thank you for using my bank")
         break
-    elif reply == 4:
-        print
+    elif reply == 1:
