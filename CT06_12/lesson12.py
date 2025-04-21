@@ -31,5 +31,5 @@
 import random
 num = 0
 while num is not 4:
-    print
+    print9num
 
