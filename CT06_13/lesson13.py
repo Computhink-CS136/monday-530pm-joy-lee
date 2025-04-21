@@ -13,4 +13,4 @@ while True:
         print("Thank you for using my bank")
         break
     elif reply == 1:
-        answer = input("How ")
+        answer = input("How much to withdraw?")
