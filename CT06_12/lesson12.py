@@ -29,5 +29,7 @@
 
 
 import random
-number1 = 0
-w
+num = 0
+while num is not 4:
+    print
+
