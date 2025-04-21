@@ -19,7 +19,7 @@ for count in range(10):
     while not answer == hidden_answer:
         print("wrong! try again!")
         answer = input(question)
-        answer = int(answer) #convert to a number
-    else:
-        print("you are correct!")
+        # answer = int(answer) #convert to a number
+    # else:
+    #     print("you are correct!")
 
