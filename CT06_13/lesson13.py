@@ -2,4 +2,4 @@
 balance = 1000
 while True: 
     print("Welcome to my bank")
-    print()
+    print("choose the following")
