@@ -33,7 +33,7 @@ num = 0
 while  not num == 4:
     print(num)
     num = random.randint(1, 6)
-    if num == 4:
+    if num == 6:
         break
 else:
     print("end of loop bcos of number 4")
