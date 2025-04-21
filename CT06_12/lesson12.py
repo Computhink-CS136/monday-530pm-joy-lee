@@ -31,8 +31,9 @@
 import random
 num = 0
 while  not num == 4:
-    print(num)
     num = random.randint(1, 6)
+    print(num)
+
     if num == 6:
         break
 else:
