@@ -17,3 +17,5 @@ question = "what is" + str(number1) + " + " + str(number2) +"?"
 hidden_answer = number1 + number2
 while not answer == hidden_answer:
     print("wrong! try again!")
+else:
+    print
