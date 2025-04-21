@@ -17,7 +17,7 @@ for count in range(10):
     answer = int(input (question))
     hidden_answer = number1 + number2
     while not answer == hidden_answer:
-       print("wrong! try again!")
+        print("wrong! try again!")
     answer = input(question)
     answer = int(answer) #convert to a number
 else:
