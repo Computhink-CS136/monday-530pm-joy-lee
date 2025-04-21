@@ -10,4 +10,4 @@
 
 import random
 number1 = random.randint(1, 10)
-number2 = rand
+number2 = random.randint(1,10)
