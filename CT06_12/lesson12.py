@@ -9,7 +9,6 @@
 
 
 import random
-from tkinter.messagebox import QUESTION
 number1 = random.randint(1, 10)
 number2 = random.randint(1, 10)
 #what is 3 + 5?
