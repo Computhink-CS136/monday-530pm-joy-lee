@@ -28,4 +28,4 @@
 
 
 
-inport random
+import random
