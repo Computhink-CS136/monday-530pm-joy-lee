@@ -36,5 +36,5 @@ while  not num == 4:
     if num == 4:
         break
 else:
-    print("end of loop")
+    print("end of loop bcos of number 4")
 
