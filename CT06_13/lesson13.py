@@ -18,4 +18,4 @@
 
 
 
-students
+students = {""}
