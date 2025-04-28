@@ -19,5 +19,5 @@
 
 
 groceries = [" Apples ",  " Bread ",  " Carrots ",  " Dates ",  " Eggs ",  " Flour ",  " Grapes ",  " Honey "]
-print(groceries[0])
-print(students[7])
+print(groceries[1])
+
