@@ -29,3 +29,9 @@
 # print(groceries)
 # groceries.pop(1)
 # print(groceries)
+
+
+
+
+for item in groceries:
+    print
