@@ -20,5 +20,5 @@
 
 groceries = [" Apples ",  " Bread ",  " Carrots ",  " Dates ",  " Eggs ",  " Flour ",  " Grapes ",  " Honey "]
 print(groceries[7])
-groceries[5] = ""
+groceries[5] = "Ice cream"
 
