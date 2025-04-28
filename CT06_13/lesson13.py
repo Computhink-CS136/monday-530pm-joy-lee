@@ -18,4 +18,4 @@
 
 
 
-groceries = [" Apples "  " Bread "  " Carrots "]
+groceries = [" Apples "  " Bread "  " Carrots "  " Dates "]
