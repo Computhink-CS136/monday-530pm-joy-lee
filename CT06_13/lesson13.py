@@ -33,9 +33,9 @@
 
 
 
-for item in list:
+for item in items:
     print( item )
-    if grocery == 'Apples':
+    if item == 'Apples':
         print( item + ": I need 5 of these")
-    if item == "Carrots":
-("I need 3 of these")
+        if item == "Carrots":
+            print("I need 3 of these")
