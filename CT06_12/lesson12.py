@@ -28,13 +28,13 @@
 
 
 
-import random
-num = 0
-while  not num == 4:
-    num = random.randint(1, 6)
-    print(num)
-    if num == 6:
-        break
-else:
-    print("end of loop bcos of number 4")
+# import random
+# num = 0
+# while  not num == 4:
+#     num = random.randint(1, 6)
+#     print(num)
+#     if num == 6:
+#         break
+# else:
+#     print("end of loop bcos of number 4")
 
