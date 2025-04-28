@@ -34,8 +34,7 @@ groceries = [ "Apples",  " Bread ",  " Carrots ",  " Dates ",  " Eggs ",  " Flou
 
 
 for item in groceries:
-    print( item )
-    if item == 'Apples':
+    if item == "Apples:
         print( item + ": I need 5 of these")
         if item == "Carrots":
             print("I need 3 of these")
