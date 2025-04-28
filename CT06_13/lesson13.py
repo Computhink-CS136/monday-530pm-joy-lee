@@ -23,4 +23,3 @@ print(groceries[7])
 groceries[7] = "Herbs"
 groceries(len(groceries) )
 print( groceries )
-
