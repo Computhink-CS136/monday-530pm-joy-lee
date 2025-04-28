@@ -18,4 +18,4 @@
 
 
 
-groceries = [""]
+groceries = [" Apples "]
