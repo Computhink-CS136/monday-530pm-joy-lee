@@ -37,5 +37,5 @@ for item in list:
     print( item )
     if item == 'Apples':
         print( item + ": I need 5 of these")
-    if item == "Carrot":
+    if item == "Apples":
         print("I need 3 of these")
