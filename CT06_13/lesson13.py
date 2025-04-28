@@ -18,7 +18,7 @@
 
 
 
-roceries = [ "Apples",  " Bread ",  " Carrots ",  " Dates ",  " Eggs ",  " Flour ",  " Grapes ",  " Honey "]
+groceries = [ "Apples",  " Bread ",  " Carrots ",  " Dates ",  " Eggs ",  " Flour ",  " Grapes ",  " Honey "]
 # print(groceries[7])
 # groceries[7] = "Herbs"
 # print( len(groceries) )
