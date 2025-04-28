@@ -33,7 +33,7 @@
 
 
 
-for item in s:
+for item in item:
     print( item )
     if item == 'Apples':
         print( item + ": I need 5 of these")
