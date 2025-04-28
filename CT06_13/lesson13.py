@@ -36,4 +36,4 @@
 for item in groceries:
     print( item )
     if item == 'Apples':
-        print()
+        print( item + ":")
