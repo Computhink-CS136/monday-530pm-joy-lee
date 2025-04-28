@@ -19,13 +19,13 @@
 
 
 groceries = [ "Apples",  " Bread ",  " Carrots ",  " Dates ",  " Eggs ",  " Flour ",  " Grapes ",  " Honey "]
-print(groceries[7])
-groceries[7] = "Herbs"
-print( len(groceries) )
-print( groceries )
-groceries.append("Ice")
-groceries.insert(2,"Bananas")
-# del(groceries[3])
-print(groceries)
+# print(groceries[7])
+# groceries[7] = "Herbs"
+# print( len(groceries) )
+# print( groceries )
+# groceries.append("Ice")
+# groceries.insert(2,"Bananas")
+# # del(groceries[3])
+# print(groceries)
 groceries.pop(2)
 print(groceries)
