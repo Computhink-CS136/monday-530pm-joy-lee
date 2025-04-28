@@ -24,4 +24,4 @@ groceries[7] = "Herbs"
 print( len(groceries) )
 print( groceries )
 list.append("Ice")
-list.insert
+list.insert("Banana")
