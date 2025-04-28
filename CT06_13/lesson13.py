@@ -27,5 +27,5 @@ groceries = [ "Apples",  " Bread ",  " Carrots ",  " Dates ",  " Eggs ",  " Flou
 # groceries.insert(2,"Bananas")
 # # del(groceries[3])
 # print(groceries)
-groceries.pop(1)
-print(groceries)
+# groceries.pop(1)
+# print(groceries)
