@@ -13,12 +13,12 @@
 # Write your code here
 
 
-variable1 = 10
-variable2 = 200
-print(variable1)
-for i in range(10,200):
-    step:10
-    print(i)
+# variable1 = 10
+# variable2 = 200
+# print(variable1)
+# for i in range(10,200):
+#     step:10
+#     print(i)
 
 # Task 2
 # Code a password checker to protect your code!
@@ -30,13 +30,13 @@ for i in range(10,200):
 
 # Write your code here
 
-variable = "superpass123"
-question = "what is the password?"
-answer = input(question)
-if not answer == variable:
-    print("access denied")
-else:
-    print("access granted")
+# variable = "superpass123"
+# question = "what is the password?"
+# answer = input(question)
+# if not answer == variable:
+#     print("access denied")
+# else:
+#     print("access granted")
 
 
 
