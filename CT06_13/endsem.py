@@ -13,7 +13,7 @@
 # Write your code here
 
 
-
+variable1
 variable1 = 10
 variable2 = 200
 
