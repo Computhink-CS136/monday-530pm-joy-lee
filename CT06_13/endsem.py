@@ -30,13 +30,13 @@ for i in range(10,200):
 
 # Write your code here
 
-# variable = "superpass123"
-# question = "what is the password?"
-# answer = input(question)
-# if not answer == variable:
-#     print("access denied")
-# else:
-#     print("access granted")
+variable = "superpass123"
+question = "what is the password?"
+answer = input(question)
+if not answer == variable:
+    print("access denied")
+else:
+    print("access granted")
 
 
 
