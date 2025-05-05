@@ -67,10 +67,7 @@ print(planets)
 #    from this list one by one.
 
 for sphere in planets:
-    sphere(0 
-           1
-           2
-           )
+    sphere
 
 
 
