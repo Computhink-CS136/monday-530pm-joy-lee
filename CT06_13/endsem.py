@@ -67,7 +67,8 @@ print(planets)
 #    from this list one by one.
 
 for sphere in planets:
-    print [sphere]
+    print (sphere)
+    
 
 
 
