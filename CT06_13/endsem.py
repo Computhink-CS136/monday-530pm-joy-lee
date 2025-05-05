@@ -18,7 +18,10 @@ variable2 = 200
 print(variable1)
 for i in range(10,200):
     step:10
-    i
+    print(i)
+
+
+
 
 
 
