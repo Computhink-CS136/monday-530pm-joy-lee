@@ -33,7 +33,8 @@
 variable = "superpass123"
 question = "what is the password?"
 answer = input(question)
-i
+while not answer == answer:
+    print()
 
 
 
