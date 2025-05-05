@@ -33,8 +33,8 @@
 variable = "superpass123"
 question = "what is the password?"
 answer = input(question)
-if not answer == answer:
-    print("")
+if not answer == variable:
+    print("ac")
 
 
 
