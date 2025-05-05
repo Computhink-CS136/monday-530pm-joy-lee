@@ -68,7 +68,7 @@ print(planets)
 
 for sphere in planets:
     print (sphere)
-    
+    print (planets)
 
 
 
