@@ -14,7 +14,7 @@
 
 
 variable1 = 10
-varia
+va
 
 
 
