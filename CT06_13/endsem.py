@@ -15,7 +15,7 @@
 
 variable1 = 10
 variable2 = 200
-print(var1)
+print(variable1)
 
 
 
