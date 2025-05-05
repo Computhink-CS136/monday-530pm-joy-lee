@@ -36,7 +36,7 @@ answer = input(question)
 if not answer == variable:
     print("access denied")
 else:
-    pr
+    print("access gran")
 
 
 
