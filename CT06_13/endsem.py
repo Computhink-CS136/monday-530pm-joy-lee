@@ -14,7 +14,7 @@
 
 
 variable1 = 10
-variable2 = 200
+variable2 = 20
 
 
 
