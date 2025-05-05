@@ -110,7 +110,8 @@ for sphere in planets:
 
 
 
-word
+word = "hello"
+
 
 
 
