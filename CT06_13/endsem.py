@@ -110,14 +110,14 @@ for sphere in planets:
 
 
 
-word = "hello"
-word = "hello1"
-word = word *2
-print(word)
+# word = "hello"
+# word = "hello1"
+# word = word *2
+# print(word)
 
 
 
-
+name = input
 
 
 
