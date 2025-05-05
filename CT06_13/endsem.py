@@ -113,7 +113,7 @@ for sphere in planets:
 word = "hello"
 word = "hello1"
 word = word *2
-print
+print(word)
 
 
 
