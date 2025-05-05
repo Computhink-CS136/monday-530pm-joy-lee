@@ -15,9 +15,7 @@
 
 variable1 = 10
 variable2 = 200
-
-
-
+print
 
 
 
