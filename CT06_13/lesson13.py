@@ -7,7 +7,7 @@
 #     print("2. Deposit cash")
 #     print("3. Show balance")
 #     print("4. Exit")
-#   g  reply = input("")
+#     reply = input("")
 #     reply = int(reply)
 #     if reply == 4:
 #         print("Thank you for using my bank")
