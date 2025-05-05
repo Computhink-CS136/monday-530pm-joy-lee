@@ -31,7 +31,8 @@ for i in range(10,200):
 # Write your code here
 
 variable = "superpass123"
-answer = input(s)
+answer = input("superpass123")
+
 
 
 
