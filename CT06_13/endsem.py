@@ -117,7 +117,7 @@ for sphere in planets:
 
 
 
-name = input
+name = input("who is there?")
 
 
 
