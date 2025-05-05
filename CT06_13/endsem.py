@@ -13,7 +13,7 @@
 # Write your code here
 
 
-var
+variable1 = 10
 
 
 
