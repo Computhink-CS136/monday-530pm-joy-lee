@@ -56,18 +56,18 @@
 
 # 3. Elon Musk has conquered Mars. 
 #    Rename Mars in the list to be "muskworld"
-planets[3] = "muskworld"
-print(planets)
+# planets[3] = "muskworld"
+# print(planets)
 
 # 4. Remove uranus from this list.
-planets.pop(6)
-print(planets)
+# planets.pop(6)
+# print(planets)
 
 # 5. Using a for loop, print all the planets 
 #    from this list one by one.
 
-for sphere in planets:
-    print (sphere)
+# for sphere in planets:
+#     print (sphere)
   
 
 
