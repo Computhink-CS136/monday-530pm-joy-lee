@@ -30,7 +30,7 @@ for i in range(10,200):
 
 # Write your code here
 
-variable = secret
+variable = secret("super")
 
 
 
