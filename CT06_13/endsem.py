@@ -117,7 +117,11 @@ for sphere in planets:
 
 
 
-name = input("who is there?")
+# name = input("who is there?")
+# if name == "john"
+# print("hello john")
+# else:
+# print("i don't know you")
 
 
 
